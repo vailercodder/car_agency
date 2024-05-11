@@ -1,6 +1,4 @@
-# car_agency
-
-## README for Car Sales and Agency Management System
+# car agency
 
 ## Project Title: Car Sales and Agency Management System
 
@@ -10,7 +8,7 @@ This project implements a comprehensive system for managing car sales, agency in
 
 # Features:
 
-#### Search Cars: Allows users to search for cars based on year, price, and brand.
+#### gSearch Cars: Allows users to search for cars based on year, price, and brand.
 
 Transfer Cars Between Agencies: Enables the transfer of cars between agencies, updating inventories accordingly.
 Sell Cars: Handles the process of selling cars from agencies to customers, including financial transactions and tax considerations.
